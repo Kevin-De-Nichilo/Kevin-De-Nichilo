@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Kevin-De-Nichilo
 - 👀 Estoy interesado en aprender nuevos lenguajes de programacion.
-- 🌱 Actualmente estoy aprendiendo HTML5 y CSS3, ademas tengo programado cursos de JavaScript, React Js y Backend.
+- 🌱 Soy desarrollador web Front-End. En curso de aprendizaje de Back-End
 - 💞️ Estoy buscando colaborar con cualquier tipo de empresa o negocio para arrancar a formar mi experiencia.
 - 📫 Me pueden contactar a traves de mi email, denichilokevin@gmail.com, o por instagram @kevin.denichilo
 
